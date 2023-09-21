@@ -40,4 +40,5 @@ Für die "useful" (dt. nützlich) und "funny" (dt. witzig) Spalten gilt das glei
 11. Vorhersagen und Auswertung
 
 
-#Projektergebnis:
+#Projektergebnis: Die Confusion Matrix gibt Aufschluss, wie gut ein Modell Klassen in einem Klassifikationsproblem vorhersagt. Für Kategorie 5 erhalten wir mit 96% eine bessere Modellleistung als für Kategorie 1 mit 78%. Mit dem Einbezug von TF-IDF haben sich die Werte verschlechtert. Statt 96& sind es nun 90% für Kategorie 5.
+
