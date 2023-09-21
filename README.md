@@ -23,9 +23,6 @@ Für die "useful" (dt. nützlich) und "funny" (dt. witzig) Spalten gilt das glei
 2. Notebook öffnen
 3. Code-Zeilen nacheinander ausführen lassen
 
-
-#Future Warning ist eine Warninformation und gilt für zukünftige Versionen.
-
 #Code-Abfolge: 
 1. Libraries importieren (nachdem sie vorab durch binder installiert wurden)
 2. Daten einlesen
